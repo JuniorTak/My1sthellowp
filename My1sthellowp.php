@@ -6,7 +6,7 @@
 /*
 Plugin Name: My1sthellowp
 Plugin URI: https://github.com/JuniorTak/My1sthellowp
-Description: This is my first plugin WordPress
+Description: This is my first WordPress plugin. It creates a shortcode to display a custom Google Map
 Version: 1.0.0
 License: GPLv2
 Author: Hyppolite T.
